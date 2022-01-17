@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "C:/Users/kimam/C++/Project/tower-defense-8/src/build-TowerDefence-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/TowerDefence_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/kimam/C++/Project/tower-defense-8/src/build-TowerDefence-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/kimam/C++/Project/tower-defense-8/src/build-TowerDefence-Desktop_Qt_6_2_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence",
+	"CMAKE_SOURCE_DIR" : "C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence",
+	"INCLUDE_DIR" : "C:/Users/kimam/C++/Project/tower-defense-8/src/build-TowerDefence-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/TowerDefence_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/5.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/purple.png",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/4.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/map2.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/map3.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/testwave.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/red.png",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/3.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/green.png",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/map1.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/menu.png",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/1.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/black.png",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/2.txt",
+		"C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/arrowbullet.png"
+	],
+	"LOCK_FILE" : "C:/Users/kimam/C++/Project/tower-defense-8/src/build-TowerDefence-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/TowerDefence_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.2.1/mingw81_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/kimam/C++/Project/tower-defense-8/src/build-TowerDefence-Desktop_Qt_6_2_1_MinGW_64_bit-Debug/CMakeFiles/TowerDefence_autogen.dir/AutoRcc_Resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/kimam/C++/Project/tower-defense-8/src/TowerDefence/Resources.qrc",
+	"VERBOSITY" : 0
+}

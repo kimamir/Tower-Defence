@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>menu.png</file>
+        <file>red.png</file>
+        <file>map1.txt</file>
+        <file>1.txt</file>
+        <file>arrowbullet.png</file>
+        <file>green.png</file>
+        <file>black.png</file>
+        <file>purple.png</file>
+        <file>2.txt</file>
+        <file>3.txt</file>
+        <file>4.txt</file>
+        <file>5.txt</file>
+        <file>map2.txt</file>
+        <file>map3.txt</file>
+    </qresource>
+</RCC>
